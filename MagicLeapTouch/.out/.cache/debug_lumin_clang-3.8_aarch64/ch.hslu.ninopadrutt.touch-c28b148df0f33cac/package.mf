@@ -1,0 +1,276 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "7122c7a8705e3adf8045ed47569f24dbd5865702",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3075708,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "30d525d1b8c09cdde94816d7d5c019ea24c33f29",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 45783296,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2a50e0a23e118f11fb7c80ad46ae0657426b4df5",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\libil2cpp.so-aa8a20b68a3976c3",
+   "xfrm_size": 45784054
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bb4857985bf58bb0009cad148bc34eda591a0033",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\AudioPluginMSASpatializer.so-e1ce91d2de3adf83",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "0dcf6d6b8f274d400b8544696e7a6f9f81c6ba81",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "06995ecae530eca2b6f5337b27dbdfcb727599da",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495800,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9493af5ac5975d0db0edda71ce0576160d6b6404",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\UnityMagicLeap.so-e1ce91d2de3adf83",
+   "xfrm_size": 1496558
+  },
+  {
+   "compression": 8,
+   "hash": "e36553e9a3113280d39db515a350a0036cda878d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a0a67838ad0de9dc8b84be540bc717b90999fb4e",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\libml_camera_plugin.so-e1ce91d2de3adf83",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "0ee8bd5ed3f83c8d11c84a597fb375ec525b0642",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "df2329aedd2d3ca95b1289be03af61c0f6ba1853",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\libml_mediaplayer_plugin.so-e1ce91d2de3adf83",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1fdd94a886b1019cd3f62d85935f2e2b2dda0711",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754668,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "07a1a6072f5e1bb3a3f4905632232dc66e76c2d5",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 168,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "9f9d9fdfae69214ea57a2416e60a9fe924367caa",
+   "pkgpath": "Data/boot.config",
+   "size": 144,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "d40fb96cd8486fc61dd3d6fef173c5be048f990a",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 42280,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "e4accbd84988d9445783b62967741f882d733a4a",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 45492,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "05ca595379aefa5c6e67c1243d3be6d0403f9bf3",
+   "pkgpath": "Data/level0",
+   "size": 6644,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ca49aa8f565834257f44fc8a102584b36fd06d13",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bb33e5e55f6efcb4aa3b87d5e0c604cba3d7f0a5",
+   "pkgpath": "Data/resources.assets",
+   "size": 522608,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "47311795aa0263bbeaf07a65d9168fb49d05b289",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 210856,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "83809f07181ae9ea95470924b7a796418637d9c8",
+   "pkgpath": "bin/Player.elf",
+   "size": 20263912,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2aba8d19e32ec2cffc86bbb5b20c5f56ba4850f3",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\Player.elf-d806185eb586a934",
+   "xfrm_size": 20264670
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/ninop/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4d8e3e6bd95d3e708f5de8eec897c042816c54f9",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\libc++_shared.so-627004b73ea06db5",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "5b8708eeb77ef38978e4ffe645d46af030002a5b",
+   "pkgpath": "manifest.xml",
+   "size": 3456,
+   "src": "C:\\Users\\ninop\\Documents\\Git\\MagicLeapTouch\\MagicLeapTouch\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "6057f1f4a4a67080c040e22345acf9fcadb8369a",
+     "developer_id": "8bae1f9f-f352-4510-b63d-557f7c2e0ada"
+    }
+   },
+   "xfrm_hash": "6384a907f2550e70d209edbdc38e785373b65f0c",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTouch/MagicLeapTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/ch.hslu.ninopadrutt.touch-c28b148df0f33cac\\manifest.xml-d806185eb586a934",
+   "xfrm_size": 1171
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
